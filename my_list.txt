@@ -1,0 +1,6 @@
+"Triangle"
+"Arm-bar"
+"Heel-hook"
+"Toe Hold"
+"Guillotine"
+"Kimura"
